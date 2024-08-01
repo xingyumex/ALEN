@@ -14,3 +14,14 @@ The project is currently in preparation for release. We are finalizing the codeb
 You can download the Diverse Illumination Scene (DIS) dataset used here:
 
 [DIS Dataset](https://drive.google.com/file/d/1KQhL8EhgJPoS-88xz0Y2UfO8fjTEc9M3/view?usp=drive_link)
+
+
+## Citation
+If this work contributes to your research, we would appreciate it if you could cite our paper:
+
+@article{perez2024alen,
+  title={ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement},
+  author={Perez-Zarate, Ezequiel and Ramos-Soto, Oscar and Oliva, Diego and Perez-Cisneros, Marco},
+  journal={arXiv preprint arXiv:2407.19708},
+  year={2024}
+}
