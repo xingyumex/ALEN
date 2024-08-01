@@ -19,6 +19,7 @@ You can download the Diverse Illumination Scene (DIS) dataset used here:
 ## Citation
 If this work contributes to your research, we would appreciate it if you could cite our paper:
 
+```bibtex
 @article{perez2024alen,
   title={ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement},
   author={Perez-Zarate, Ezequiel and Ramos-Soto, Oscar and Oliva, Diego and Perez-Cisneros, Marco},
