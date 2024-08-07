@@ -17,7 +17,7 @@ You can use the Diverse Illumination Scene (DIS) dataset, an unpaired real-world
 
 
 ## Citation
-If this work contributes to your research, we would appreciate it if you could cite our paper:
+If this work contributes to your research, we would appreciate it if you could cite our paper, which is currently a preprint awaiting official publication:
 
 ```bibtex
 @article{perez2024alen,
