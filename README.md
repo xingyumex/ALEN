@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code and associated materials for the paper titled **ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement**. The aim of this research is the visual enhancement of low-light images.
+Official PyTorch implementation of [ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement](https://arxiv.org/abs/2407.19708). This paper is currently under review in the [International Journal of Computer Vision](https://link.springer.com/journal/11263).
 
 ![ALEN Architecture](ALEN_ARCH.png)
 
