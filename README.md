@@ -2,7 +2,7 @@
 
 ## Overview
 
-Official PyTorch implementation of [ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement](https://arxiv.org/abs/2407.19708). This paper is currently under review in the [International Journal of Computer Vision](https://link.springer.com/journal/11263).
+Official PyTorch implementation of [ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement](https://arxiv.org/abs/2407.19708). This paper is currently under review.
 
 ![ALEN Architecture](ALEN_ARCH.png)
 
