@@ -28,3 +28,23 @@ To test the model, follow these steps:
    python inference.py
 
 5. The enhanced images will be saved in the ./2_Output directory.
+
+
+## 3. Datasets  
+This section describes the datasets used to train and evaluate the performance of **ALEN: Adaptive Light Enhancement Network** for low-light image enhancement.
+
+### 3.1. Training Datasets  
+The following public datasets were used to train the **ALEN** model. These datasets contain images with global and local illumination variations, necessary for effective classification and enhancement:
+
+- **DICM**: Dataset for Image Contrast Enhancement (300 images)  
+- **LIME**: Low-light Image Enhancement Dataset (200 images)  
+- **DIS**: Diverse Illumination Scenes (500 images)  
+- **MEF**: Multi-Exposure Fusion Dataset (350 images)  
+- **NPE**: Naturalness-Preserved Enhancement Dataset (400 images)
+
+### 3.2. Evaluation Datasets  
+To evaluate the overall performance and generalization ability of **ALEN**, we used various datasets representing real-world scenarios:
+
+- **EUVP**: Underwater Image Dataset (500 underwater images)  
+- **LOL**: Low-Light Image Dataset (485 images captured in low-light conditions)  
+- **RUIE**: Real-World Underwater Image Enhancement Dataset (600 real underwater images)
