@@ -1,6 +1,6 @@
 # ALEN
 
-## Overview
+## 1. Overview
 
 This repository contains the source code and supplementary materials for the paper titled **ALEN: An Adaptive Dual-Approach for Enhancing Uniform and Non-Uniform Low-Light Images**. This research focuses on low-light images enhancement.
 
@@ -15,7 +15,7 @@ This repository contains the source code and supplementary materials for the pap
 7. natsort == 8.4.0
 8. torchvision == 0.18.0+cu118
 
-## Inference
+## 2. Inference
 To test the model, follow these steps:
 
 1. Download the code and pretrained weights from this [link](https://drive.google.com/drive/folders/1Wuj5s1mtm5SJDLl80ISBRzhIwnRw4K1Q).
