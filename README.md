@@ -2,8 +2,9 @@
 
 ## Overview
 
-This repository contains the source code and supplementary materials for the paper titled **ALEN: An Adaptive Dual-Approach for Enhancing Uniform and Non-Uniform Low-Light Images**. This research focuses on low-light images enhancement
+This repository contains the source code and supplementary materials for the paper titled **ALEN: An Adaptive Dual-Approach for Enhancing Uniform and Non-Uniform Low-Light Images**. This research focuses on low-light images enhancement.
 
+![LoLi_Architecture](Architecture.png)
 
 1. opencv-python == 4.9.0.80
 2. scikit-image == 0.22.0
@@ -24,6 +25,6 @@ To test the model, follow these steps:
 4. Run the code with the following command:
 
    ```bash
-   python main.py
+   python inference.py
 
 5. The enhanced images will be saved in the ./2_Output directory.
