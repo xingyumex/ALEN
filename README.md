@@ -36,11 +36,14 @@ This section describes the datasets used to train and evaluate the performance o
 ### 3.1. Training Datasets  
 The following public datasets were used to train the **ALEN** model. These datasets contain images with global and local illumination variations, necessary for effective classification and enhancement:
 
-- **DICM**: Dataset for Image Contrast Enhancement (300 images)  
-- **LIME**: Low-light Image Enhancement Dataset (200 images)  
-- **DIS**: Diverse Illumination Scenes (500 images)  
-- **MEF**: Multi-Exposure Fusion Dataset (350 images)  
-- **NPE**: Naturalness-Preserved Enhancement Dataset (400 images)
+| **Dataset** | **Description**                              | **Number of Images** |
+|-------------|----------------------------------------------|----------------------|
+| **DICM**    | Dataset for Image Contrast Enhancement       | 300                  |
+| **LIME**    | Low-light Image Enhancement Dataset          | 200                  |
+| **DIS**     | Diverse Illumination Scenes                  | 500                  |
+| **MEF**     | Multi-Exposure Fusion Dataset                | 350                  |
+| **NPE**     | Naturalness-Preserved Enhancement Dataset    | 400                  |
+
 
 ### 3.2. Evaluation Datasets  
 To evaluate the overall performance and generalization ability of **ALEN**, we used various datasets representing real-world scenarios:
