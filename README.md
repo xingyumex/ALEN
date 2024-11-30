@@ -1,6 +1,4 @@
-# ALEN
-
-[![DOI](https://zenodo.org/badge/896243613.svg)](https://doi.org/10.5281/zenodo.14249461)
+# ALEN [![DOI](https://zenodo.org/badge/896243613.svg)](https://doi.org/10.5281/zenodo.14249461)
 
 ## 1. Overview
 
