@@ -49,7 +49,7 @@ To evaluate the overall performance and generalization ability of **ALEN**, we u
 
 | **Dataset**       | **Description**                                 | **Number of Images**     | **Type**                 | **Resources** |
 |-------------------|:-----------------------------------------------:|:------------------------:|:------------------------:|:-------------:|
-| **DIS**           | Diverse Illumination Scene                      | 10                       | Unpaired Enhancement     |[DIS](https://drive.google.com/drive/folders/1h-fHZ5yCGTgohXXTEDWnA_ArhVv0c4nO?hl=e)|
+| **DIS**           | Diverse Illumination Scene                      | 10                       | Unpaired Enhancement     |[Dataset](https://drive.google.com/drive/folders/1h-fHZ5yCGTgohXXTEDWnA_ArhVv0c4nO?hl=e)|
 | **LSRW**          | Large-Scale Real-World                          | 735                      | Paired Enhancement       |[Paper](https://www.sciencedirect.com/science/article/pii/S1047320322002322)/Dataset  |
 | **UHD-LOL4k**     | Synthetic Low-Light                             | 735                      | Paired Enhancement       |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25364)/Dataset |
 | **DICM**          |                                                 | 69                       | Unpaired Enhancement     |Paper/Dataset  |
