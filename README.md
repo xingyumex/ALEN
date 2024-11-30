@@ -38,7 +38,7 @@ The following public datasets were used to train the **ALEN** model. These datas
 
 | **Dataset** | **Description**                                 | **Number of Images**         | **Type**              | **Resources** |
 |-------------|:-----------------------------------------------:|:----------------------------:|:---------------------:|:-------------:|
-| **GLI**     | Global-Local Illumination                       | 2,000                        | Paired Classification |Dataset        |
+| **GLI**     | Global-Local Illumination                       | 2,000                        | Paired Classification |[Dataset](https://drive.google.com/drive/folders/1L1uhe1pAOl6fqPSTB2EMVxYJ0AGeNJue?hl=es)|
 | **HDR+**    |                                                 | 22,472                       | Paired Enhancement    |Paper/Dataset  |
 | **SLL**     | Synthetic Low-Light                             | 500                          | Paired Enhancement    |Paper/Dataset  |
 | **MIT**     | MIT-Adobe FiveK                                 | 5,000                        | Paired Enhancement    |Paper/Dataset  |
@@ -49,7 +49,7 @@ To evaluate the overall performance and generalization ability of **ALEN**, we u
 
 | **Dataset**       | **Description**                                 | **Number of Images**     | **Type**                 | **Resources** |
 |-------------------|:-----------------------------------------------:|:------------------------:|:------------------------:|:-------------:|
-| **DIS**           | Diverse Illumination Scene                      | 10                       | Unpaired Enhancement     |Dataset        |
+| **DIS**           | Diverse Illumination Scene                      | 10                       | Unpaired Enhancement     |[DIS](https://drive.google.com/drive/folders/1h-fHZ5yCGTgohXXTEDWnA_ArhVv0c4nO?hl=e)|
 | **LSRW**          | Large-Scale Real-World                          | 735                      | Paired Enhancement       |Paper/Dataset  |
 | **UHD-LOL4k**     | Synthetic Low-Light                             | 735                      | Paired Enhancement       |Paper/Dataseta |
 | **DICM**          |                                                 | 69                       | Unpaired Enhancement     |Paper/Dataset  |
