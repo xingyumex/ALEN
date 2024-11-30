@@ -41,7 +41,7 @@ The following public datasets were used to train the **ALEN** model. These datas
 | **GLI**     | Global-Local Illumination                       | 2,000                        | Paired Classification |[Dataset](https://drive.google.com/drive/folders/1L1uhe1pAOl6fqPSTB2EMVxYJ0AGeNJue?hl=es)|
 | **HDR+**    |                                                 | 22,472                       | Paired Enhancement    |[Paper](https://dl.acm.org/doi/abs/10.1145/2980179.2980254)/[Dataset](https://hdrplusdata.org/)  |
 | **SLL**     | Synthetic Low-Light                             | 500                          | Paired Enhancement    |[Paper](https://link.springer.com/article/10.1007/s11263-021-01466-8)/[Dataset](https://github.com/yu-li/AGLLNet?tab=readme-ov-file)|
-| **MIT**     | MIT-Adobe FiveK                                 | 5,000                        | Paired Enhancement    |Paper/Dataset  |
+| **MIT**     | MIT-Adobe FiveK                                 | 5,000                        | Paired Enhancement    |[Paper](https://ieeexplore.ieee.org/abstract/document/5995413)/[Dataset](https://data.csail.mit.edu/graphics/fivek/)|
 
 
 ### 3.2. Evaluation Datasets  
@@ -50,8 +50,8 @@ To evaluate the overall performance and generalization ability of **ALEN**, we u
 | **Dataset**       | **Description**                                 | **Number of Images**     | **Type**                 | **Resources** |
 |-------------------|:-----------------------------------------------:|:------------------------:|:------------------------:|:-------------:|
 | **DIS**           | Diverse Illumination Scene                      | 10                       | Unpaired Enhancement     |[DIS](https://drive.google.com/drive/folders/1h-fHZ5yCGTgohXXTEDWnA_ArhVv0c4nO?hl=e)|
-| **LSRW**          | Large-Scale Real-World                          | 735                      | Paired Enhancement       |Paper/Dataset  |
-| **UHD-LOL4k**     | Synthetic Low-Light                             | 735                      | Paired Enhancement       |Paper/Dataseta |
+| **LSRW**          | Large-Scale Real-World                          | 735                      | Paired Enhancement       |[Paper](https://www.sciencedirect.com/science/article/pii/S1047320322002322)/Dataset  |
+| **UHD-LOL4k**     | Synthetic Low-Light                             | 735                      | Paired Enhancement       |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25364)/Dataset |
 | **DICM**          |                                                 | 69                       | Unpaired Enhancement     |Paper/Dataset  |
 | **LIME**          |                                                 | 10                       | Unpaired Enhancement     |[Paper](https://ieeexplore.ieee.org/abstract/document/7782813)/Dataset  |
 | **MEF**           |                                                 | 17                       | Unpaired Enhancement     |Paper/Dataset  |
