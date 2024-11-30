@@ -40,7 +40,7 @@ The following public datasets were used to train the **ALEN** model. These datas
 |-------------|:-----------------------------------------------:|:----------------------------:|:---------------------:|:-------------:|
 | **GLI**     | Global-Local Illumination                       | 2,000                        | Paired Classification |[Dataset](https://drive.google.com/drive/folders/1L1uhe1pAOl6fqPSTB2EMVxYJ0AGeNJue?hl=es)|
 | **HDR+**    |                                                 | 22,472                       | Paired Enhancement    |Paper/Dataset  |
-| **SLL**     | Synthetic Low-Light                             | 500                          | Paired Enhancement    |Paper/Dataset  |
+| **SLL**     | Synthetic Low-Light                             | 500                          | Paired Enhancement    |[Paper](https://link.springer.com/article/10.1007/s11263-021-01466-8)/[Dataset](https://github.com/yu-li/AGLLNet?tab=readme-ov-file)|
 | **MIT**     | MIT-Adobe FiveK                                 | 5,000                        | Paired Enhancement    |Paper/Dataset  |
 
 
