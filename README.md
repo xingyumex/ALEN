@@ -36,17 +36,24 @@ This section describes the datasets used to train and evaluate the performance o
 ### 3.1. Training Datasets  
 The following public datasets were used to train the **ALEN** model. These datasets contain images with global and local illumination variations, necessary for effective classification and enhancement:
 
-| **Dataset** | **Description**                                 | **Number of Images**    | **Type** | **Link** |
-|-------------|:-----------------------------------------------:|:-----------------------:|:-------------------:|:-----------:|
-| **GLI**     | Global-Local Illumination                       | 2,000                   | Paired Classification |Dataset      |
-| **HDR+**    |                                                 | 200                     | Paired Enhancement    |Dataset      |
-| **SLL**     | Synthetic Low-Light                             | 500                     | Paired Enhancement    |Dataset      |
-| **MIT**     |                                                 | 350                     | Paired Enhancement    |Dataset      |
+| **Dataset** | **Description**                                 | **Number of Images**         | **Type**              | **Resources** |
+|-------------|:-----------------------------------------------:|:----------------------------:|:---------------------:|:-------------:|
+| **GLI**     | Global-Local Illumination                       | 2,000                        | Paired Classification |Dataset        |
+| **HDR+**    |                                                 | 22,472                       | Paired Enhancement    |Paper/Dataset  |
+| **SLL**     | Synthetic Low-Light                             | 500                          | Paired Enhancement    |Paper/Dataset  |
+| **MIT**     | MIT-Adobe FiveK                                 | 5,000                        | Paired Enhancement    |Paper/Dataset  |
 
 
 ### 3.2. Evaluation Datasets  
 To evaluate the overall performance and generalization ability of **ALEN**, we used various datasets representing real-world scenarios:
 
-- **EUVP**: Underwater Image Dataset (500 underwater images)  
-- **LOL**: Low-Light Image Dataset (485 images captured in low-light conditions)  
-- **RUIE**: Real-World Underwater Image Enhancement Dataset (600 real underwater images)
+| **Dataset**       | **Description**                                 | **Number of Images**     | **Type**                 | **Resources** |
+|-------------------|:-----------------------------------------------:|:------------------------:|:------------------------:|:-------------:|
+| **DIS**           | Diverse Illumination Scene                      | 10                       | Unpaired Enhancement     |Dataset        |
+| **LSRW**          | Large-Scale Real-World                          | 735                      | Paired Enhancement       |Paper/Dataset  |
+| **UHD-LOL4k**     | Synthetic Low-Light                             | 735                      | Paired Enhancement       |Paper/Dataseta |
+| **DICM**          |                                                 | 69                       | Unpaired Enhancement     |Paper/Dataset  |
+| **LIME**          |                                                 | 10                       | Unpaired Enhancement     |Paper/Dataset  |
+| **MEF**           |                                                 | 17                       | Unpaired Enhancement     |Paper/Dataset  |
+| **NPE**           |                                                 | 8                        | Unpaired Enhancement     |Paper/Dataset  |
+| **TM-DIED**       |                                                 | 222                      | Unpaired Enhancement     |Dataset        |
