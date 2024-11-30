@@ -39,8 +39,8 @@ The following public datasets were used to train the **ALEN** model. These datas
 | **Dataset** | **Description**                                 | **Number of Images**         | **Type**              | **Resources** |
 |-------------|:-----------------------------------------------:|:----------------------------:|:---------------------:|:-------------:|
 | **GLI**     | Global-Local Illumination                       | 2,000                        | Paired Classification |[Dataset](https://drive.google.com/drive/folders/1L1uhe1pAOl6fqPSTB2EMVxYJ0AGeNJue?hl=es)|
-| **HDR+**    |                                                 | 22,472                       | Paired Enhancement    |[Paper](https://dl.acm.org/doi/abs/10.1145/2980179.2980254)/[Dataset](https://hdrplusdata.org/)  |
-| **SLL**     | Synthetic Low-Light                             | 500                          | Paired Enhancement    |[Paper](https://link.springer.com/article/10.1007/s11263-021-01466-8)/[Dataset](https://github.com/yu-li/AGLLNet?tab=readme-ov-file)|
+| **HDR+**    | High Dynamic Range Plus                         | 922                          | Paired Enhancement    |[Paper](https://dl.acm.org/doi/abs/10.1145/2980179.2980254)/[Dataset](https://hdrplusdata.org/)  |
+| **SLL**     | Synthetic Low-Light                             | 22,472                       | Paired Enhancement    |[Paper](https://link.springer.com/article/10.1007/s11263-021-01466-8)/[Dataset](https://github.com/yu-li/AGLLNet?tab=readme-ov-file)|
 | **MIT**     | MIT-Adobe FiveK                                 | 5,000                        | Paired Enhancement    |[Paper](https://ieeexplore.ieee.org/abstract/document/5995413)/[Dataset](https://data.csail.mit.edu/graphics/fivek/)|
 
 
@@ -50,7 +50,7 @@ To evaluate the overall performance and generalization ability of **ALEN**, we u
 | **Dataset**       | **Description**                                 | **Number of Images**     | **Type**                 | **Resources** |
 |-------------------|:-----------------------------------------------:|:------------------------:|:------------------------:|:-------------:|
 | **DIS**           | Diverse Illumination Scene                      | 10                       | Unpaired Enhancement     |[Dataset](https://drive.google.com/drive/folders/1h-fHZ5yCGTgohXXTEDWnA_ArhVv0c4nO?hl=e)|
-| **LSRW**          | Large-Scale Real-World                          | 735                      | Paired Enhancement       |[Paper](https://www.sciencedirect.com/science/article/pii/S1047320322002322)/Dataset  |
+| **LSRW**          | Large-Scale Real-World                          | 735                      | Paired Enhancement       |[Paper](https://www.sciencedirect.com/science/article/pii/S1047320322002322)/Dataset(https://drive.google.com/drive/folders/1PVdD3ivcvyN_qMenNfyThm0HspBfNS6t?hl=es)  |
 | **UHD-LOL4k**     | Synthetic Low-Light                             | 735                      | Paired Enhancement       |[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25364)/Dataset |
 | **DICM**          |                                                 | 69                       | Unpaired Enhancement     |Paper/Dataset  |
 | **LIME**          |                                                 | 10                       | Unpaired Enhancement     |[Paper](https://ieeexplore.ieee.org/abstract/document/7782813)/Dataset  |
