@@ -18,7 +18,7 @@ This repository contains the source code and supplementary materials for the pap
 ## 2. Inference
 To test the model, follow these steps:
 
-1. Download the code and pretrained weights from this [link](https://drive.google.com/drive/folders/1Wuj5s1mtm5SJDLl80ISBRzhIwnRw4K1Q).
+1. Download the pretrained weights from this [link](https://drive.google.com/drive/folders/1Wuj5s1mtm5SJDLl80ISBRzhIwnRw4K1Q).
 
 3. Place your images to be enhanced in the ./1_Input directory.
 
