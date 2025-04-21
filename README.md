@@ -4,7 +4,7 @@
 [Ezequiel Perez-Zarate](https://scholar.google.com/citations?user=sNlxp40AAAAJ&hl=es&oi=sra). [Oscar Ramos-Soto](https://scholar.google.com/citations?user=EzhiQbkAAAAJ&hl=es&oi=sra), Chunxiao Liu, [Diego Oliva](https://scholar.google.com/citations?user=N5mk5rYAAAAJ&hl=es), [Marco Perez-Cisneros](https://scholar.google.com/citations?user=7fH_0XQAAAAJ&hl=es)
 
 
-🎯 ## 1. Overview
+## 🎯 1. Overview
 
 This repository contains the source code and supplementary materials for the paper **"ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement"**. The research focuses on enhancing low-light images and has been accepted for publication in the Multimedia Systems journal, published by Springer.
 
