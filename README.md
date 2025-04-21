@@ -57,3 +57,16 @@ To evaluate the overall performance and generalization ability of **ALEN**, we u
 | **MEF**           | Multi-Exposure Fusion                           | 17                       | Unpaired Enhancement     |[Paper](https://ieeexplore.ieee.org/abstract/document/7120119)/[Dataset](https://drive.google.com/drive/folders/1HGRiGjU63ZSwBNz_VaDYavGpSYotnKAs?usp=sharing) |
 | **NPE**           | Naturalness Preserved Enhancement               | 8                        | Unpaired Enhancement     |[Paper](https://ieeexplore.ieee.org/abstract/document/6512558)/[Dataset](https://drive.google.com/drive/folders/103obQEYIzojmMtbNmY8XxgIoSCI4f_B7?usp=sharing) |
 | **TM-DIED**       | The Most Difficult Image Enhancement Dataset    | 222                      | Unpaired Enhancement     |[Dataset](https://sites.google.com/site/vonikakis/datasets/tm-died)|
+
+
+
+## Citation
+If this work contributes to your research, we would appreciate it if you could cite our paper:
+
+```bibtex
+@article{perez2024alen,
+  title={ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement},
+  author={Perez-Zarate, Ezequiel and Ramos-Soto, Oscar and Liu, Chunxiao and Oliva, Diego and Perez-Cisneros, Marco},
+  journal={arXiv preprint arXiv:2407.19708},
+  year={2024}
+}
