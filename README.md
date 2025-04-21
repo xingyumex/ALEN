@@ -1,4 +1,4 @@
-# [MS2025] ALEN [![DOI](https://zenodo.org/badge/896243613.svg)](https://doi.org/10.5281/zenodo.14249461)
+# [MS2025] ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement [![DOI](https://zenodo.org/badge/896243613.svg)](https://doi.org/10.5281/zenodo.14249461)
 
 ## 1. Overview
 
