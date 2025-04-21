@@ -1,4 +1,4 @@
-# [MS2025] ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement [![DOI](https://zenodo.org/badge/896243613.svg)](https://doi.org/10.5281/zenodo.14249461)
+# [MS2025] ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement 
 
 
 [Ezequiel Perez-Zarate](https://scholar.google.com/citations?user=sNlxp40AAAAJ&hl=es&oi=sra). [Oscar Ramos-Soto](https://scholar.google.com/citations?user=EzhiQbkAAAAJ&hl=es&oi=sra), Chunxiao Liu, [Diego Oliva](https://scholar.google.com/citations?user=N5mk5rYAAAAJ&hl=es), [Marco Perez-Cisneros](https://scholar.google.com/citations?user=7fH_0XQAAAAJ&hl=es)
