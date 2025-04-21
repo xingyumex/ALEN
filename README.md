@@ -19,7 +19,7 @@ This repository contains the source code and supplementary materials for the pap
 7. natsort == 8.4.0
 8. torchvision == 0.18.0+cu118
 
-## 2. Inference
+## 🧪 2. Inference
 To test the model, follow these steps:
 
 1. Download the pretrained weights from this [link](https://drive.google.com/drive/folders/1Wuj5s1mtm5SJDLl80ISBRzhIwnRw4K1Q), and place them in the ./Models directory.
@@ -34,10 +34,10 @@ To test the model, follow these steps:
 5. The enhanced images will be saved in the ./2_Output directory.
 
 
-## 3. Datasets  
+## 🗂️ 3. Datasets 
 This section describes the datasets used to train and evaluate the performance of **ALEN: Adaptive Light Enhancement Network** for low-light image enhancement.
 
-### 3.1. Training Datasets  
+### 📚 3.1. Training Datasets
 The following public datasets were used to train the **ALEN** model. These datasets contain images with global and local illumination variations, necessary for effective classification and enhancement:
 
 | **Dataset** | **Description**                                 | **Number of Images**         | **Type**              | **Resources** |
@@ -48,7 +48,7 @@ The following public datasets were used to train the **ALEN** model. These datas
 | **MIT**     | MIT-Adobe FiveK                                 | 5,000                        | Paired Enhancement    |[Paper](https://ieeexplore.ieee.org/abstract/document/5995413)/[Dataset](https://data.csail.mit.edu/graphics/fivek/)|
 
 
-### 3.2. Evaluation Datasets  
+### 🧾 3.2. Evaluation Datasets
 To evaluate the overall performance and generalization ability of **ALEN**, we used various datasets representing real-world scenarios:
 
 | **Dataset**       | **Description**                                 | **Number of Images**     | **Type**                 | **Resources** |
@@ -64,7 +64,7 @@ To evaluate the overall performance and generalization ability of **ALEN**, we u
 
 
 
-## Citation
+## 📄 Citation
 If this work contributes to your research, we would appreciate it if you could cite our paper:
 
 ```bibtex
