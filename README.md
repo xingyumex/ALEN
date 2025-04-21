@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-This repository contains the source code and supplementary materials for the paper titled **ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement**. This research focuses on low-light images enhancement.
+This repository contains the source code and supplementary materials for the paper **"ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement"**. The research focuses on enhancing low-light images and has been accepted for publication in the Multimedia Systems journal, published by Springer.
 
 ![ALEN_Architecture](ALEN_ARCH.png)
 
