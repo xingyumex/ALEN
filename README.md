@@ -80,7 +80,7 @@ If this work contributes to your research, we would appreciate it if you could c
   journal={Multimedia Systems},
   volume={31},
   number={3},
-  pages={1--22},
+  pages={248},
   year={2025},
   publisher={Springer}
 }
