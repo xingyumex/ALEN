@@ -24,16 +24,20 @@ This repository contains the source code and supplementary materials for the pap
 ## 🧪 3. Inference
 To test the model, follow these steps:
 
-1. Download the pretrained weights from this [link](https://drive.google.com/drive/folders/1Wuj5s1mtm5SJDLl80ISBRzhIwnRw4K1Q), and place them in the ./Models directory.
 
-3. Place your images to be enhanced in the ./1_Input directory.
+1. Download the pretrained weights from either of the following links, and place them in the `./Models` directory:  
+   - [Google Drive](https://drive.google.com/drive/folders/1Wuj5s1mtm5SJDLl80ISBRzhIwnRw4K1Q)   
+   - [OneDrive](https://1drv.ms/f/c/e007fd74948072f0/Ejgw93u1C2pCiBMXo9J53zcBiq3yf30GwHST3Logz7ELrA?e=RD6p96)
 
-4. Run the code with the following command:
+
+2. Place your images to be enhanced in the ./1_Input directory.
+
+3. Run the code with the following command:
 
    ```bash
    python inference.py
 
-5. The enhanced images will be saved in the ./2_Output directory.
+4. The enhanced images will be saved in the ./2_Output directory.
 
 
 ## 🗂️ 4. Datasets 
