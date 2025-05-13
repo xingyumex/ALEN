@@ -30,14 +30,14 @@ To test the model, follow these steps:
    - [OneDrive](https://1drv.ms/f/c/e007fd74948072f0/Ejgw93u1C2pCiBMXo9J53zcBiq3yf30GwHST3Logz7ELrA?e=RD6p96)
 
 
-2. Place your images to be enhanced in the ./1_Input directory.
+2. Place your images to be enhanced in the `./1_Input` directory.
 
 3. Run the code with the following command:
 
    ```bash
    python inference.py
 
-4. The enhanced images will be saved in the ./2_Output directory.
+4. The enhanced images will be saved in the `./2_Output` directory.
 
 
 ## 🗂️ 4. Datasets 
