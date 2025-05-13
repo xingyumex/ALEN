@@ -70,9 +70,14 @@ To evaluate the overall performance and generalization ability of **ALEN**, we u
 If this work contributes to your research, we would appreciate it if you could cite our paper:
 
 ```bibtex
-@article{perez2024alen,
-  title={ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement},
+@article{perez2025alen,
+  title={ALEN: a dual-approach for uniform and non-uniform low-light image enhancement},
   author={Perez-Zarate, Ezequiel and Ramos-Soto, Oscar and Liu, Chunxiao and Oliva, Diego and Perez-Cisneros, Marco},
-  journal={arXiv preprint arXiv:2407.19708},
-  year={2024}
+  journal={Multimedia Systems},
+  volume={31},
+  number={3},
+  pages={1--22},
+  year={2025},
+  publisher={Springer}
 }
+
